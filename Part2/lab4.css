@@ -1,0 +1,111 @@
+/* Set the font for the page */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Make the playlist centered and 80% of the page */
+#playlist {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+/* Make the headers distinguishable from the song attributes */
+#field_headers {
+	font-weight: bold;
+	margin: auto;
+	text-align: center;
+}
+
+/* Formatting for each row in the playlist */
+ul {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0px;
+	text-align: center;	
+	width: 98%;
+	padding: 1%;
+}
+
+/* Formatting for each element in each row of the header */
+li {
+	width: 13.5%;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	vertical-align: middle;
+}
+
+/* Formatting for each element in each row of the playlist */
+.songs li {
+	height: 100px;
+}
+
+/* Formatting to achieve the border effects */
+.top_element {
+	border-width: 3px;
+	border-top: solid;
+	border-right: solid;
+	border-left: solid;
+	border-bottom: dotted;
+}
+
+.middle_element {
+	border-width: 3px;
+	border-top: none;
+	border-right: solid;
+	border-left: solid;
+	border-bottom: dotted;
+}
+
+.bottom_element {
+	border-width: 3px;
+	border-top: none;
+	border-right: solid;
+	border-left: solid;
+	border-bottom: solid;
+}
+
+/* Formatting as specified for each property */
+#entry {
+	margin: auto;
+}
+
+.cover_image {
+	width: 100px;
+	height: 100px;
+}
+
+.title {
+	font-variant: small-caps;
+}
+
+.artist {
+	font-weight: bold;
+}
+
+.album {
+	font-style: italic;
+}
+
+.release_date {
+	font-size: 1.5vw;
+}
+
+.genre {
+	font-size: 1.5vw;
+}
+
+.favorite {
+	color: green;
+}
+
+footer {
+	font-size: 10;
+	font-style: italic;
+	text-align: center;
+	width: 100%;
+}
+

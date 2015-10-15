@@ -1,0 +1,38 @@
+[
+	{
+	  "track": "Grapevine Fires",
+	  "artist": "Death Cab for Cutie",
+	  "album": "Narrow Stairs",
+	  "cover": "Narrow_Stairs.jpg",
+	  "release": "05/13/08",
+	  "genre": "Indie Rock",
+	  "website": "deathcabforcutie.com"
+	},
+	{
+	  "track": "On The Bus Mall",
+	  "artist": "Decemberists",
+	  "album": "Picaresque",
+	  "cover": "Picaresque.jpg",
+	  "release": "03/22/2005",
+	  "genre": "Indie Rock",
+	  "website": "decemberists.com"
+	},
+	{
+	  "track": "I've Just Seen a Face",
+	  "artist": "The Beatles",
+	  "album": "Help!",
+	  "cover": "Help.jpg",
+	  "release": "08/16/1965",
+	  "genre": "Rock",
+	  "website": "thebeatles.com"
+	},
+	{
+	  "track": "Explorers",
+	  "artist": "Sky Sailing",
+	  "album": "An Airplane Carried Me to Bed",
+	  "cover": "An_Airplane_Carried_Me_to_Bed.jpg",
+	  "release": "07/13/2010",
+	  "genre": "Acoustic",
+	  "website": "skysailingmusic.com"
+	}
+]
